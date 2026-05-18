@@ -3,14 +3,13 @@
 {
     "name": "lrs-template",
     // Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-    "image": "mcr.microsoft.com/devcontainers/rust:1-1-bookworm",
+    "image": "mcr.microsoft.com/devcontainers/rust:2-1-trixie",
     // "build": {
     //     "dockerfile": "Dockerfile"
     // },
     "customizations": {
         "vscode": {
             "extensions": [
-                "jbockle.jbockle-format-files",
                 "streetsidesoftware.code-spell-checker",
                 "eamodio.gitlens",
                 "-serayuzgur.crates",
