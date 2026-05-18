@@ -14,7 +14,10 @@
                 "eamodio.gitlens",
                 "-serayuzgur.crates",
                 "fill-labs.dependi"
-            ]
+            ],
+            "settings": {
+                "gitlens.gitkraken.mcp.autoEnabled": false
+            }
         }
     }
     // Use 'mounts' to make the cargo cache persistent in a Docker Volume.
