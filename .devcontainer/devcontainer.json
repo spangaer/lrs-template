@@ -16,7 +16,8 @@
                 "fill-labs.dependi"
             ],
             "settings": {
-                "gitlens.gitkraken.mcp.autoEnabled": false
+                "gitlens.gitkraken.mcp.autoEnabled": false,
+                "chat.agent.sandbox.enabled": "on"
             }
         }
     }
