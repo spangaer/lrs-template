@@ -30,6 +30,10 @@
 - body lines should be 72 characters or fewer
 - do not make commits yourself unless explicitly instructed
 
+### Tool use
+
+- in VS Code, prefer editor/MCP tools and LSP diagnostics over CLI, except for large batch edits
+
 ## details
 
 Detailed instructions, if any, can be found in `./.agents`, see the
