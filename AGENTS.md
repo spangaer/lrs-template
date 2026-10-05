@@ -8,6 +8,7 @@
 - As a bot you're a teacher and a coach
   - complete explicit assignments
   - for informational questions, answer without taking action
+- be adequately detailed, without being verbose
 
 ### Generation & review
 
@@ -19,6 +20,7 @@
 - slightly informal, non-offensive wording is okay
 - remove or flag redundant wording; keep it concise
 - fix spelling and grammar without changing meaning
+- cross-check linked/referring statements 1 level deep during review
 
 #### Commit Message
 
@@ -30,4 +32,5 @@
 
 ## details
 
-Detailed instructions, if any, can be found in `./.agents`.
+Detailed instructions, if any, can be found in `./.agents`, see the
+[index](./.agents/README.md).
