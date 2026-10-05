@@ -16,7 +16,10 @@
                 "fill-labs.dependi"
             ],
             "settings": {
-                "gitlens.gitkraken.mcp.autoEnabled": false
+                "gitlens.gitkraken.mcp.autoEnabled": false,
+                "chat.defaultConfiguration": {
+                    "approvals": "assisted"
+                }
                 // never mind sandbox, doesn't work in podman containers
                 // long running agentic flows are also not of concern for lrs projects
                 // "chat.agent.sandbox.enabled": "on"
